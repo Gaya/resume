@@ -66,16 +66,12 @@ _December 2015 - March 2016 (Eindhoven, The Netherlands)_
 
 Frontend Engineering of BaaS. Mostly JavaScript. Making sure features get implemented the right way and fixing the overall architecture of the application which was built in Angular. As part of Greenhouse Group.
 
----
-
 ###Greenhouse Group - Tech
 _**DevOps**_
 
 _September 2015 - December 2015 (Eindhoven, The Netherlands)_
 
 Making sure the development teams can deliver the best without worrying about the underlying service architectures. Responsible for AWS, monitoring, integration, delivery, development and production environments etc.
-
----
 
 ###Greenhouse Group - Blue Mango Interactive
 _**JavaScript Developer**_
@@ -92,8 +88,6 @@ _**All-Round Developer**_
 _July 2014 - September 2015 (Bladel, The Netherlands)_
 
 Front-end web development and creating web applications in JavaScript.
-
----
 
 ###Merchandise.nl
 _**All-Round Developer**_
