@@ -31,6 +31,13 @@ Creator of social whisky app [Drammit](https://dramm.it). A project with a Node.
 ###JouwWeb
 Lead JavaScript developer for [JouwWeb](https://www.jouwweb.nl). A WYSIWYG DIY website builder based in the Netherlands, where I do all things JavaScript.
 
+##Education
+
+###Hogeschool van Arnhem en Nijmegen
+- Computer Science - Bachelor of Applied Science (B.A.Sc.)
+
+Computer science. Distributed development, software architecture and modeling, database design and development, rich web applications.
+
 ##Work Experience
 
 ###CleverNode
