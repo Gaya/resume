@@ -47,6 +47,8 @@ _June 2015 - Present (Deurne, The Netherlands)_
 
 Drammit App Development and Freelance projects.
 
+---
+
 ###JouwWeb
 _**JavaScript Developer**_
 
