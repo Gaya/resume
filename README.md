@@ -4,6 +4,7 @@
 | --- | --- |
 | Name | Gaya Kessler |
 | Location | Deurne, The Netherlands |
+| Email | [gaya@theclevernode.com](gaya@theclevernode.com) |
 | Website | [http://theclevernode.com](http://theclevernode.com) |
 | Blog | [https://blog.gaya.ninja](https://blog.gaya.ninja) |
 | Twitter | [@GayaNinja](https://twitter.com/GayaNinja) |
@@ -56,12 +57,16 @@ _April 2016 - Present (Eindhoven, The Netherlands)_
 
 Working on improving and expanding the JouwWeb application. Mostly JavaScript, using a React and Redux stack. Experience migrating an old ES5, Grunt, RequireJS project to Webpack, Babel, ES6+.
 
+---
+
 ###Greenhouse Group - BaaS
 _**Lead Frontend Developer**_
 
 _December 2015 - March 2016 (Eindhoven, The Netherlands)_
 
 Frontend Engineering of BaaS. Mostly JavaScript. Making sure features get implemented the right way and fixing the overall architecture of the application which was built in Angular. As part of Greenhouse Group.
+
+---
 
 ###Greenhouse Group - Tech
 _**DevOps**_
@@ -70,12 +75,16 @@ _September 2015 - December 2015 (Eindhoven, The Netherlands)_
 
 Making sure the development teams can deliver the best without worrying about the underlying service architectures. Responsible for AWS, monitoring, integration, delivery, development and production environments etc.
 
+---
+
 ###Greenhouse Group - Blue Mango Interactive
 _**JavaScript Developer**_
 
 _April 2015 - September 2015 (Eindhoven, The Netherlands)_
 
 Helping Blue Mango deliver top notch software and supporting development teams. Mostly in JavaScript and Python for development. Part of Greenhouse Group.
+
+---
 
 ###Radish Concepts BV
 _**All-Round Developer**_
@@ -84,6 +93,8 @@ _July 2014 - September 2015 (Bladel, The Netherlands)_
 
 Front-end web development and creating web applications in JavaScript.
 
+---
+
 ###Merchandise.nl
 _**All-Round Developer**_
 
@@ -91,12 +102,16 @@ _February 2013 - July 2014 (Bladel, The Netherlands)_
 
 Making rock 'n roll worthy solutions for Merchandise.nl. Ranging from full blown e-commerce projects to web applications for customizing print orders.
 
+---
+
 ###Twisted
 _**Web Developer**_
 
 _August 2011 - February 2013 (Eindhoven, The Netherlands)_
 
 Creating for the web. Symphony CMS, XSLT, PHP, SASS, Compass, HTML, JavaScript.
+
+---
 
 ###Cybox
 _**Web Developer**_
