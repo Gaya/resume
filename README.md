@@ -1,5 +1,6 @@
 #Resume - CV - Gaya Kessler
 
+| --- | Personal information |
 | --- | --- |
 | Name | Gaya Kessler |
 | Website | [http://theclevernode.com](http://theclevernode.com) |
