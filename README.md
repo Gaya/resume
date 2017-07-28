@@ -7,7 +7,7 @@
 | Email | [gaya@theclevernode.com](gaya@theclevernode.com) |
 | Website | [http://theclevernode.com](http://theclevernode.com) |
 | Blog | [https://blog.gaya.ninja](https://blog.gaya.ninja) |
-| Twitter | [@GayaNinja](https://twitter.com/GayaNinja) |
+| Twitter | [@GayaKessler](https://twitter.com/GayaKessler) |
 | GitHub | [@Gaya](https://github.com/Gaya) |
 
 ## Skills and interests
@@ -16,21 +16,18 @@
 JavaScript, Web Development, Front-end Development, Node.js, Single Page Applications, Continuous Development / Deployment.
 
 ### Technologies:
-React, Redux, WebPack, Sass, SVG, Git, Docker.
+React, Redux, WebPack, Node.js, Sass, SVG, Git, Docker.
 
 ### Spoken languages:
 Dutch & English.
 
 ### Interests:
-(Heavy & loud) Music, Jiu Jitsu, movies and series, (Scotch) Whisky, running, fitness.
+(Heavy & loud) Music, Jiu Jitsu, movies and series, (Scotch) whisky, running, fitness.
 
-## Current
+## Currently
 
 ### Drammit
 Creator of social whisky app [Drammit](https://dramm.it). A project with a Node.js driven back-end and a React driven front-end. Available for both Android and iOS.
-
-### JouwWeb
-Lead JavaScript developer for [JouwWeb](https://www.jouwweb.nl). A WYSIWYG DIY website builder based in the Netherlands, where I do all things JavaScript.
 
 ## Education
 
@@ -46,16 +43,16 @@ _**Owner**_
 
 _June 2015 - Present (Deurne, The Netherlands)_
 
-Drammit App Development and Freelance projects.
+App Development and Freelance projects.
 
 ---
 
 ### JouwWeb
-_**JavaScript Developer**_
+_**Lead JavaScript Developer**_
 
-_April 2016 - Present (Eindhoven, The Netherlands)_
+_April 2016 - August 2017 (Eindhoven, The Netherlands)_
 
-Working on improving and expanding the JouwWeb application. Mostly JavaScript, using a React and Redux stack. Experience migrating an old ES5, Grunt, RequireJS project to Webpack, Babel, ES6+.
+Lead JavaScript developer for [JouwWeb](https://www.jouwweb.nl). A WYSIWYG DIY website builder based in the Netherlands. Using a React and Redux stack, but also refactoring and managing older jQuery like legacy code. Experience migrating an old ES5, Grunt, RequireJS project to Webpack, Babel, ES6+.
 
 ---
 
