@@ -5,7 +5,7 @@
 | Name | Gaya Kessler |
 | Location | Deurne, The Netherlands |
 | Email | [gaya@theclevernode.com](gaya@theclevernode.com) |
-| Website | [http://theclevernode.com](http://theclevernode.com) |
+| Website | [https://theclevernode.com](https://theclevernode.com) |
 | Blog | [https://blog.gaya.ninja](https://blog.gaya.ninja) |
 | Twitter | [@GayaKessler](https://twitter.com/GayaKessler) |
 | GitHub | [@Gaya](https://github.com/Gaya) |
@@ -13,10 +13,10 @@
 ## Skills and interests
 
 ### Skills:
-JavaScript, Web Development, Front-end Development, Node.js, Single Page Applications, Continuous Development / Deployment.
+JavaScript, Software Development, Front-end Development, Node.js, Single Page Applications, Teaching Developers, Mentoring Developers, Continuous Development / Deployment.
 
 ### Technologies:
-React, Redux, WebPack, Node.js, Sass, SVG, Git, Docker.
+React, Redux, WebPack, Node.js, SVG, Git, Docker.
 
 ### Spoken languages:
 Dutch & English.
@@ -24,17 +24,12 @@ Dutch & English.
 ### Interests:
 (Heavy & loud) Music, Jiu Jitsu, movies and series, (Scotch) whisky, running, fitness.
 
-## Currently
-
-### Drammit
-Creator of social whisky app [Drammit](https://dramm.it). A project with a Node.js driven back-end and a React driven front-end. Available for both Android and iOS.
-
 ## Education
 
 ### Hogeschool van Arnhem en Nijmegen
 _Computer Science - Bachelor of Applied Science (B.A.Sc.)_
 
-Computer science. Distributed development, software architecture and modeling, database design and development, rich web applications.
+Subjects: Distributed application development, software architecture and modeling, database design and development, rich web applications.
 
 ## Work Experience
 
