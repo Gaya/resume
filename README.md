@@ -6,7 +6,7 @@
 | Location | Deurne, The Netherlands |
 | Email | [gaya@theclevernode.com](gaya@theclevernode.com) |
 | Website | [https://theclevernode.com](https://theclevernode.com) |
-| Blog | [https://blog.gaya.ninja](https://blog.gaya.ninja) |
+| Blog | [https://gaya.pizza](https://gaya.pizza) |
 | Twitter | [@GayaKessler](https://twitter.com/GayaKessler) |
 | GitHub | [@Gaya](https://github.com/Gaya) |
 
