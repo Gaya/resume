@@ -48,7 +48,7 @@ An app to keep track of and rate the whiskies you drink. Currently being redone 
 ### Dekode ([dekode.no](https://dekode.no))
 _**Various projects**_
 I worked on various things while working for Dekode. Most notably was Nisje, a community platform, built using React and Redux.
-Another project I helped get off the ground was Synkron, a web service which was able to handle large quatities of data and create a smart hub between services. For instance: keeping different e-commerce platforms of customers in sync. Made using Node.js and Molecular. 
+Another project I helped get off the ground was Synkron, a web service which was able to handle large quantities of data and create a smart hub between services. For instance: keeping different e-commerce platforms of customers in sync. Made using Node.js and Molecular. 
 For Dekode I also worked on React Native projects to create apps for the Norwegian government.
 During I gave trainings in JavaScript and React. Through presentations, company wide training and one-on-one pair programming sessions.
 
@@ -92,7 +92,7 @@ Training employees in the fine art of React and Redux. Doing some code-reviews a
 
 ### Alex van Groningen ([alexvangroningen.nl](https://alexvangroningen.nl))
 _**Consultancy**_
-Performing code-reviews for their server side rendered website using React and Node.js. Also gave insightes based on my findings.
+Performing code-reviews for their server side rendered website using React and Node.js. Also gave insights based on my findings.
 
 ## (Employed) Work Experience
 
