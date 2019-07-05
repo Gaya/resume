@@ -1,5 +1,11 @@
 # Resume - CV - Gaya Kessler
 
+(Full stack) Web Developer. Specialising in JavaScript, React, and Modern Front-end Tooling. With a background in computer science, I create rich applications for the Internet and mobile platforms. 
+
+I am passionate about creating the best for the web, always keeping up with the latest in web technologies. This allowed me to work on a lot of different projects, and thus experience what works and what doesn't in various different situations.
+
+Subjects I mainly focus on are JavaScript, front-end development, React, Redux, WebPack, Single Page Applications, mobile apps (React Native), and back-end JavaScript using Node.js. 
+
 | Practical info |  |
 | --- | --- |
 | Name | Gaya Kessler |
@@ -22,7 +28,7 @@ React, Redux, WebPack, Node.js, SVG, Git, Docker.
 Dutch & English.
 
 ### Interests:
-(Heavy & loud) Music, Jiu Jitsu, movies and series, (Scotch) whisky, running, fitness.
+(Heavy & loud) Music, movies and series, (Scotch) whisky, running, cycling, fitness.
 
 ## Education
 
@@ -30,6 +36,47 @@ Dutch & English.
 _Computer Science - Bachelor of Applied Science (B.A.Sc.)_
 
 Subjects: Distributed application development, software architecture and modeling, database design and development, rich web applications.
+
+## Freelance / CleverNode projects
+
+### Drammit ([dramm.it](https://dramm.it))
+_**CleverNode side project**_
+An app to keep track of and rate the whiskies you drink. Currently being redone in more modern technologies and to improve the app's functionalities. A very fun project! Built using React Native, TypeScript, Redux, React Hooks, Node.js, Sequelize, Koa.
+
+### Dekode ([dekode.no](https://dekode.no))
+_**Various projects**_
+I worked on various things while working for Dekode. Most notably was Nisje, a community platform, built using React and Redux.
+Another project I helped get off the ground was Synkron, a web service which was able to handle large quatities of data and create a smart hub between services. For instance: keeping different e-commerce platforms of customers in sync. Made using Node.js and Molecular. 
+For Dekode I also worked on React Native projects to create apps for the Norwegian government.
+During I gave trainings in JavaScript and React. Through presentations, company wide training and one-on-one pair programming sessions.
+
+### BrewPi ([brewpi.com](https://www.brewpi.com/))
+_**GUI for a brewery controller**_
+BrewPi is a small embedded controller to be used by breweries. It can keep track of and control brewery setups. I was asked to start working on the GUI for their new version of the controller. It is a web interface from which the brewery setup can be controlled. Built using TypeScript, Vue.js, WebPack, Babel.
+
+### Thyme ([usethyme.com](https://usethyme.com))
+_**CleverNode side project**_
+A privacy first time tracking web application, with various browser extensions. This project is completely open-source. As an alternative to hosted time tracking services. Built using React, Redux, Redux-Observables and Create React App. The service part is made using Node.js and Express.js
+
+### A/B Testing for WordPress ([abtestingforwordpress.com](https://abtestingforwordpress.com))
+_**CleverNode side project**_
+When the new Gutenberg editor for WordPress came out, I wanted to see how well React was integrated with the CMS so I decided to built an A/B testing tool which can be used in the Gutenberg editor. Built using React, WebPack, Babel, WordPress, PHP.
+
+### Formable ([getformable.com](https://getformable.com))
+_**CleverNode side project**_
+WYSIWYG like form builder to integrate forms on static websites. Built using JavaScript, Flow type, React, Redux, WebPack, Babel, Node.js, Express.js, Sequelize
+
+### Cybox ([cybox.nl](https://cybox.nl))
+_**Web App Control Panel**_
+A control panel for employees to add content for their calendar module for local events. Communicates directly with their API. Built using React, Redux, WebPack.
+
+### Route42 ([route42.nl](https://route42.nl))
+_**In-company Training**_
+Training employees in the fine art of React and Redux. Doing some code-reviews and train the developers in person.
+
+### Alex van Groningen ([alexvangroningen.nl](https://alexvangroningen.nl))
+_**Consultancy**_
+Performing code-reviews for their server side rendered website using React and Node.js. Also gave insightes based on my findings.
 
 ## Work Experience
 
