@@ -19,10 +19,10 @@ Subjects I mainly focus on are JavaScript, front-end development, React, Redux, 
 ## Skills and interests
 
 ### Skills:
-JavaScript, Software Development, Front-end Development, Node.js, Single Page Applications, Teaching Developers, Mentoring Developers, Continuous Development / Deployment.
+JavaScript, Software Development, Front-end (and Back-end) Development, Node.js, Single Page Applications, Teaching Developers, Mentoring Developers, Continuous Development / Deployment, Test Driven Development.
 
 ### Technologies:
-React, Redux, WebPack, Node.js, SVG, Git, Docker.
+JavaSCript, React, Redux, WebPack, Node.js, SVG, Git, Docker.
 
 ### Spoken languages:
 Dutch & English.
