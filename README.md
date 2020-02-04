@@ -37,11 +37,11 @@ _Computer Science - Bachelor of Applied Science (B.A.Sc.)_
 
 Subjects: Distributed application development, software architecture and modeling, database design and development, rich web applications.
 
-## Freelance / CleverNode projects
+## Freelance
 
-### Drammit ([dramm.it](https://dramm.it))
-_**CleverNode side project**_
-An app to keep track of and rate the whiskies you drink. Currently being redone in more modern technologies and to improve the app's functionalities. A very fun project! Built using React Native, TypeScript, Redux, React Hooks, Node.js, Sequelize, Koa.
+### Philips ([philips.com](https://philips.com))
+_**HealthSuite Digital Platform - Philips Healthcare**_
+Working on a Node.js backend application within the Healthcare department of Philips. Development for a field filled with strict rules and quality requirements.
 
 ---
 
@@ -57,6 +57,30 @@ During I gave trainings in JavaScript and React. Through presentations, company 
 ### BrewPi ([brewpi.com](https://www.brewpi.com/))
 _**GUI for a brewery controller**_
 BrewPi is a small embedded controller to be used by breweries. It can keep track of and control brewery setups. I was asked to start working on the GUI for their new version of the controller. It is a web interface from which the brewery setup can be controlled. Built using TypeScript, Vue.js, WebPack, Babel.
+
+---
+
+### Route42 ([route42.nl](https://route42.nl))
+_**In-company Training and working on Web App**_
+Training employees in the fine art of React and Redux. Whilst also working and helping out development of their Route42 web app. Doing code-reviews and train the developers in person.
+
+---
+
+### Cybox ([cybox.nl](https://cybox.nl))
+_**Web App Control Panel**_
+A control panel for employees to add content for their calendar module for local events. Communicates directly with their API. Built using React, Redux, WebPack.
+
+---
+
+### Alex van Groningen ([alexvangroningen.nl](https://alexvangroningen.nl))
+_**Consultancy**_
+Performing code-reviews for their server side rendered website using React and Node.js. Also gave insights based on my findings.
+
+## CleverNode projects
+
+### Drammit ([dramm.it](https://dramm.it))
+_**CleverNode side project**_
+An app to keep track of and rate the whiskies you drink. Currently being redone in more modern technologies and to improve the app's functionalities. A very fun project! Built using React Native, TypeScript, Redux, React Hooks, Node.js, Sequelize, Koa.
 
 ---
 
@@ -76,25 +100,7 @@ When the new Gutenberg editor for WordPress came out, I wanted to see how well R
 _**CleverNode side project**_
 WYSIWYG like form builder to integrate forms on static websites. Built using JavaScript, Flow type, React, Redux, WebPack, Babel, Node.js, Express.js, Sequelize
 
----
-
-### Cybox ([cybox.nl](https://cybox.nl))
-_**Web App Control Panel**_
-A control panel for employees to add content for their calendar module for local events. Communicates directly with their API. Built using React, Redux, WebPack.
-
----
-
-### Route42 ([route42.nl](https://route42.nl))
-_**In-company Training**_
-Training employees in the fine art of React and Redux. Doing some code-reviews and train the developers in person.
-
----
-
-### Alex van Groningen ([alexvangroningen.nl](https://alexvangroningen.nl))
-_**Consultancy**_
-Performing code-reviews for their server side rendered website using React and Node.js. Also gave insights based on my findings.
-
-## (Employed) Work Experience
+## Previous (Employed) Work Experience
 
 ### JouwWeb
 _**Lead JavaScript Developer**_
