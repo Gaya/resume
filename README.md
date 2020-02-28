@@ -19,10 +19,10 @@ Subjects I mainly focus on are JavaScript, front-end development, React, Redux, 
 ## Skills and interests
 
 ### Skills:
-JavaScript, Software Development, Front-end (and Back-end) Development, Node.js, Single Page Applications, Teaching Developers, Mentoring Developers, Continuous Development / Deployment, Test Driven Development.
+JavaScript, Software Development, Front-end (and Back-end) Development, Node.js, Single Page Applications, Progressive Web Apps, Teaching Developers, Mentoring Developers, Continuous Integration / Continuous Deployment, Test Driven Development.
 
 ### Technologies:
-JavaScript, React, Redux, WebPack, Node.js, SVG, Git, Docker.
+JavaScript, React, Node.js, Redux, WebPack, SVG, Git, Docker, AWS.
 
 ### Spoken languages:
 Dutch & English.
@@ -41,7 +41,7 @@ Subjects: Distributed application development, software architecture and modelin
 
 ### Philips ([philips.com](https://philips.com))
 _**HealthSuite Digital Platform - Philips Healthcare**_
-Working on a Node.js backend application within the Healthcare department of Philips. Development for a field filled with strict rules and quality requirements.
+Working on a Node.js backend application within the Healthcare department of Philips. Development for a field filled with strict rules and quality requirements. Platform where a lot of AWS's services were utilized.
 
 ---
 
