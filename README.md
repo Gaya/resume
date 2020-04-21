@@ -1,10 +1,12 @@
 # Resume - CV - Gaya Kessler
 
-(Full stack) Web Developer. Specialising in JavaScript, React, and Modern Front-end Tooling. With a background in computer science, I create rich applications for the Internet and mobile platforms. 
+(Full stack) Web Developer. Specialising in JavaScript, React, Node.js, TypeScript, and modern front-end. I create rich applications for the Internet and mobile platforms. Both in the front-end and in the back-end.
 
-I am passionate about creating the best for the web, always keeping up with the latest in web technologies. This allowed me to work on a lot of different projects, and thus experience what works and what doesn't in various different situations.
+My passion is to create the best for the web, always keeping up with the latest in web technologies. This allowed me to work on a lot of different projects, and thus experience what works and what doesn't in various different situations.
 
-Subjects I mainly focus on are JavaScript, front-end development, React, Redux, WebPack, Single Page Applications, mobile apps (React Native), and back-end JavaScript using Node.js. 
+_I create simple solutions to complex problems._
+
+Subjects I mainly focus on are JavaScript (and TypeScript), back-end JavaScript using Node.js, front-end development, React, Redux, WebPack, Single Page Applications / Progressive Web Apps, and mobile apps (React Native).
 
 | Practical info |  |
 | --- | --- |
@@ -22,13 +24,13 @@ Subjects I mainly focus on are JavaScript, front-end development, React, Redux, 
 JavaScript, Software Development, Front-end (and Back-end) Development, Node.js, Single Page Applications, Progressive Web Apps, Teaching Developers, Mentoring Developers, Continuous Integration / Continuous Deployment, Test Driven Development.
 
 ### Technologies:
-JavaScript, React, Node.js, Redux, WebPack, SVG, Git, Docker, AWS.
+JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS.
 
 ### Spoken languages:
 Dutch & English.
 
 ### Interests:
-(Heavy & loud) Music, movies and series, (Scotch) whisky, running, cycling, fitness.
+(Heavy & loud) Music, movies and series, (Scotch) whisky, running, cycling.
 
 ## Education
 
@@ -45,6 +47,13 @@ Working on a Node.js backend application within the Healthcare department of Phi
 
 ---
 
+### Route42 ([route42.nl](https://route42.nl))
+_**In-company Training, Development of Web App**_
+Training employees in the fine art of React, Redux, and JavaScript. Whilst also working and helping out development of their Route42 web app. Doing code-reviews and train the developers in person.
+Main focus is to help speed up and improve the developer's experience for the frontend team. Fixing problems present in the code base and making complex problems easier to digest.
+
+---
+
 ### Dekode ([dekode.no](https://dekode.no))
 _**Various projects**_
 I worked on various things while working for Dekode. Most notably was Nisje, a community platform, built using React and Redux.
@@ -57,12 +66,6 @@ During I gave trainings in JavaScript and React. Through presentations, company 
 ### BrewPi ([brewpi.com](https://www.brewpi.com/))
 _**GUI for a brewery controller**_
 BrewPi is a small embedded controller to be used by breweries. It can keep track of and control brewery setups. I was asked to start working on the GUI for their new version of the controller. It is a web interface from which the brewery setup can be controlled. Built using TypeScript, Vue.js, WebPack, Babel.
-
----
-
-### Route42 ([route42.nl](https://route42.nl))
-_**In-company Training and working on Web App**_
-Training employees in the fine art of React and Redux. Whilst also working and helping out development of their Route42 web app. Doing code-reviews and train the developers in person.
 
 ---
 
