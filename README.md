@@ -93,6 +93,18 @@ A privacy first time tracking web application, with various browser extensions. 
 
 ---
 
+### CreateMy.Run ([createmy.run](https://createmy.run))
+_**CleverNode side project**_
+Finds your next running route based on what you like. No more boring same laps, start exploring!
+
+---
+
+### Zitkubus.com ([Zitkubus.com](https://zitkubus.com))
+_**CleverNode side project**_
+Order your own printed cube to sit on. Created the 3D preview and modification tools as well as the e-commerce site behind it.
+
+---
+
 ### A/B Testing for WordPress ([abtestingforwordpress.com](https://abtestingforwordpress.com))
 _**CleverNode side project**_
 When the new Gutenberg editor for WordPress came out, I wanted to see how well React was integrated with the CMS so I decided to built an A/B testing tool which can be used in the Gutenberg editor. Built using React, WebPack, Babel, WordPress, PHP.
