@@ -30,7 +30,7 @@ JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS.
 Dutch & English.
 
 ### Interests:
-(Heavy & loud) Music, movies and series, (Scotch) whisky, running, cycling.
+(Heavy & loud) Music, movies and series, (Scotch) whisky, running, cooking.
 
 ## Education
 
