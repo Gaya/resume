@@ -21,7 +21,7 @@ Subjects I mainly focus on are JavaScript (and TypeScript), back-end JavaScript 
 ## Skills and interests
 
 ### Skills:
-JavaScript, Software Development, Front-end (and Back-end) Development, Node.js, Single Page Applications, Progressive Web Apps, Teaching Developers, Mentoring Developers, Continuous Integration / Continuous Deployment, Test Driven Development.
+Software Development, Front-end (and Back-end) Development, Node.js, Single Page Applications, Progressive Web Apps, Teaching Developers, Mentoring Developers, Continuous Integration / Continuous Deployment, Test Driven Development.
 
 ### Technologies:
 JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS.
