@@ -41,6 +41,12 @@ Subjects: Distributed application development, software architecture and modelin
 
 ## Freelance
 
+### Graylog ([graylog.com](https://graylog.com))
+_**Cloud project React development**_
+Helped build the cloud portion of the Graylog project. Mostly React and frontend work, as well as contributing to the main open source project.
+
+---
+
 ### Philips ([philips.com](https://philips.com))
 _**HealthSuite Digital Platform - Philips Healthcare**_
 Working on a Node.js backend application within the Healthcare department of Philips. Development for a field filled with strict rules and quality requirements. Platform where a lot of AWS's services were utilized.
