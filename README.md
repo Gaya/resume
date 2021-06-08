@@ -24,7 +24,7 @@ Subjects I mainly focus on are JavaScript (and TypeScript), back-end JavaScript 
 Software Development, Front-end (and Back-end) Development, Node.js, Single Page Applications, Progressive Web Apps, Teaching Developers, Mentoring Developers, Continuous Integration / Continuous Deployment, Test Driven Development.
 
 ### Technologies:
-JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS.
+JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS, D3.js.
 
 ### Spoken languages:
 Dutch & English.
@@ -40,6 +40,18 @@ _Computer Science - Bachelor of Applied Science (B.A.Sc.)_
 Subjects: Distributed application development, software architecture and modeling, database design and development, rich web applications.
 
 ## Freelance
+
+### Intoto ([intoto.io](https://intoto.io))
+_**Visualising river data from Norway**_
+Created a soon to be publically launched tool which makes Norwegian river data insightful for governments and other stakeholders. Making maps, charts, and data exploration tools.
+
+---
+
+### ActuIT ([actuit.nl](https://www.actuit.nl))
+_**React / JavaScript consultant**_
+Answering questions and teaching JavaScript / React concepts. Mostly by joining in bi-weekly meeting with the developers and by email.
+
+---
 
 ### Graylog ([graylog.com](https://graylog.com))
 _**Cloud project React development**_
