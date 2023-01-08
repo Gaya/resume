@@ -1,6 +1,6 @@
 # Resume - CV - Gaya Kessler
 
-(Full stack) Web Developer. Specialising in JavaScript, React, Node.js, TypeScript, and modern front-end. I create rich applications for the Internet and mobile platforms. Both in the front-end and in the back-end.
+(Full stack) Web Developer. I create web applications, both in the front-end and in the back-end. Specialised in JavaScript, React, Node.js, and TypeScript.
 
 My passion is to create the best for the web, always keeping up with the latest in web technologies. This allowed me to work on a lot of different projects, and thus experience what works and what doesn't in various different situations.
 
@@ -21,13 +21,14 @@ Subjects I mainly focus on are JavaScript (and TypeScript), back-end JavaScript 
 ## Skills and interests
 
 ### Skills:
-Software Development, Front-end (and Back-end) Development, Node.js, Single Page Applications, Progressive Web Apps, Teaching Developers, Mentoring Developers, Continuous Integration / Continuous Deployment, Test Driven Development.
+Software Development, Front-end (and Back-end) Development, Single Page Applications, Progressive Web Apps, Teaching Developers, Mentoring Developers, Continuous Integration / Continuous Deployment, Test Driven Development.
 
 ### Technologies:
 JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS, D3.js.
 
 ### Spoken languages:
-Dutch & English.
+Fluently: Dutch and English.
+Basic: German and Norwegian.
 
 ### Interests:
 (Heavy & loud) Music, movies and series, (Scotch) whisky, running, cooking.
