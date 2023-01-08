@@ -31,7 +31,7 @@ Fluently: Dutch and English.
 Basic: German and Norwegian.
 
 ### Interests:
-(Heavy & loud) Music, movies and series, (Scotch) whisky, running, cooking.
+(Heavy & loud) Music, movies and series, (Scotch) whisky, running, cooking, making music.
 
 ## Education
 
@@ -99,6 +99,13 @@ _**Consultancy**_
 Performing code-reviews for their server side rendered website using React and Node.js. Also gave insights based on my findings.
 
 ## CleverNode projects
+
+
+### Wreckey's ([wreckeys.com](https://wreckeys.com))
+_**CleverNode side project**_
+Where I document my MIDI instrument making efforts. Fully custom and hand-made instruments for controlling synthesizers etc. Also made a tool for people to create their own laser cutting templates converted to CAD formats.
+
+---
 
 ### Drammit ([dramm.it](https://dramm.it))
 _**CleverNode side project**_
