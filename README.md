@@ -26,9 +26,8 @@ Software Development, Front-end (and Back-end) Development, Single Page Applicat
 ### Technologies:
 JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS, D3.js.
 
-### Spoken languages:
-Fluently: Dutch and English.
-Basic: German and Norwegian.
+### Languages:
+Dutch (native), English (fluent), Norwegian (B1), German (basic understanding).
 
 ### Interests:
 (Heavy & loud) Music, movies and series, (Scotch) whisky, running, cooking, making music.
@@ -42,9 +41,22 @@ Subjects: Distributed application development, software architecture and modelin
 
 ## Freelance
 
+### Infowijs ([infowijs.nl](https://www.infowijs.nl/))
+_**Teaching and development**_
+At Infowijs I help out the team of developers get more comfortable with the tools they are using and get more in-depth knowledge of the programming languages and tools they use. At the same time I am helping out with fixing and improving the development environment across their many micro-services and applications.
+
+---
+
+### Netthandelsgruppen ([netthandelsgruppen.no](https://netthandelsgruppen.no/))
+_**Building a dashboard development environment**_
+Worked on creating a development environment for the Norwegian e-commerce company Netthandelsgruppen which drives webshops like tights.no and comfyballs.no. Helped figurating out the best course of action to build custom dashboarding tools and environments for the developers to work in. Mainly in React, TypeScript and Node.js.
+
+---
+
 ### Intoto ([intoto.io](https://intoto.io))
 _**Visualising river data from Norway**_
-Created a soon to be publically launched tool which makes Norwegian river data insightful for governments and other stakeholders. Making maps, charts, and data exploration tools.
+Created a publically available tool which makes Norwegian river data insightful for governments and other stakeholders. Making maps, charts, and data exploration tools.
+View the project at: [https://app.intoto.io/](https://app.intoto.io/)
 
 ---
 
@@ -99,7 +111,6 @@ _**Consultancy**_
 Performing code-reviews for their server side rendered website using React and Node.js. Also gave insights based on my findings.
 
 ## CleverNode projects
-
 
 ### Wreckey's ([wreckeys.com](https://wreckeys.com))
 _**CleverNode side project**_
