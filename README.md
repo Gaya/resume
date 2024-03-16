@@ -26,7 +26,7 @@ Software Development, Front-end (and Back-end) Development, Single Page Applicat
 ### Technologies:
 JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS, D3.js.
 
-### Languages:
+### Spoken languages:
 Dutch (native), English (fluent), Norwegian (B1), German (basic understanding).
 
 ### Interests:
