@@ -27,7 +27,7 @@ Software Development, Front-end (and Back-end) Development, Single Page Applicat
 JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS, D3.js.
 
 ### Spoken languages:
-Dutch (native), English (fluent), Norwegian (B1), German (basic understanding).
+Dutch (native), English (fluent), Norwegian (B1+), German (basic understanding).
 
 ### Interests:
 (Heavy & loud) Music, movies and series, (Scotch) whisky, running, cooking, making music.
@@ -38,6 +38,13 @@ Dutch (native), English (fluent), Norwegian (B1), German (basic understanding).
 _Computer Science - Bachelor of Applied Science (B.A.Sc.)_
 
 Subjects: Distributed application development, software architecture and modeling, database design and development, rich web applications.
+
+## Volunteering
+
+### Bureau voor Pedagogiek
+_**Volunteer teacher**_
+
+Teaching kids anything ICT related. From programming to editing videos and more. At a day care / school for kids autism who can't attend regular school.
 
 ## Freelance
 
