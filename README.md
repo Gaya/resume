@@ -44,7 +44,7 @@ Subjects: Distributed application development, software architecture and modelin
 ### Bureau voor Pedagogiek
 _**Volunteer teacher**_
 
-Teaching kids anything ICT related. From programming to editing videos and more. At a day care / school for kids autism who can't attend regular school.
+Teaching kids anything ICT related. From programming to editing videos and more. At a day care / school for kids with autism who can't attend regular school.
 
 ## Freelance
 
