@@ -14,8 +14,7 @@ Subjects I mainly focus on are JavaScript (and TypeScript), back-end JavaScript 
 | Location | Deurne, The Netherlands |
 | Email | [gaya@theclevernode.com](gaya@theclevernode.com) |
 | Website | [https://theclevernode.com](https://theclevernode.com) |
-| Blog | [https://gaya.pizza](https://gaya.pizza) |
-| Twitter | [@GayaKessler](https://twitter.com/GayaKessler) |
+| Blog | [https://sauce.gaya.pizza](https://sauce.gaya.pizza) |
 | GitHub | [@Gaya](https://github.com/Gaya) |
 
 ## Skills and interests
