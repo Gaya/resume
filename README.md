@@ -26,7 +26,7 @@ Software Development, Front-end (and Back-end) Development, Single Page Applicat
 JavaScript, React.js, Node.js, TypeScript, WebPack, Git, Docker, AWS, D3.js.
 
 ### Spoken languages:
-Dutch (native), English (fluent), Norwegian (B1+), German (basic understanding).
+Dutch (native), English (fluent), Norwegian (B2), German (basic understanding).
 
 ### Interests:
 (Heavy & loud) Music, movies and series, (Scotch) whisky, running, cooking, making music.
@@ -38,14 +38,22 @@ _Computer Science - Bachelor of Applied Science (B.A.Sc.)_
 
 Subjects: Distributed application development, software architecture and modeling, database design and development, rich web applications.
 
-## Volunteering
+## Freelance
 
 ### Bureau voor Pedagogiek
-_**Volunteer teacher**_
+_**Health Care Specialist / Teacher and Coach IT(Previously Volunteering)**_
 
-Teaching kids anything ICT related. From programming to editing videos and more. At a day care / school for kids with autism who can't attend regular school.
+Teaching and coaching kids anything IT related. From programming, game development, to editing videos and more. At a day care / school for kids with autism (and often times ADHD) who can't attend regular school.
 
-## Freelance
+### Chapter Works ([chapter.works](https://www.chapter.works/))
+_**Development**_
+Helping the development team implement features in both their Node.js application as well as their React front-end. Mainly focussed on integrating 3th tools into their own application.
+---
+
+### PackBack ([packback.network](https://www.packback.network/))
+_**Full-stack Development**_
+At PackBack I filled the role of lead developer while they were looking for a person to fill a perminent position of the same role. Ranging from server management to cleaning and improving the platform's architecture. This job made use of all the experience and knowledge I posses.
+---
 
 ### Infowijs ([infowijs.nl](https://www.infowijs.nl/))
 _**Teaching and development**_
