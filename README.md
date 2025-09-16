@@ -40,7 +40,7 @@ Subjects: Distributed application development, software architecture and modelin
 
 ## Freelance
 
-### Bureau voor Pedagogiek
+### Bureau voor Pedagogiek ([bureauvoorpedagogiek.nl](https://www.bureauvoorpedagogiek.nl/))
 _**Health Care Specialist / Teacher and Coach IT(Previously Volunteering)**_
 
 Teaching and coaching kids anything IT related. From programming, game development, to editing videos and more. At a day care / school for kids with autism (and often times ADHD) who can't attend regular school.
